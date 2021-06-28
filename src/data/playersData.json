@@ -1,0 +1,121 @@
+[
+    {
+        "id": "bdf49446-8d0f-45b4-97f2-005ca8bf5fa7",
+        "name": "Player 1",
+        "totalPoints": 5710,
+        "totalWins": 70,
+        "totalLoses": 22
+    },
+    {
+        "id": "dfb1951f-f67f-4a0a-a8bc-2c65cc58bd1a",
+        "name": "Player 2",
+        "totalPoints": 220,
+        "totalWins": 2,
+        "totalLoses": 1
+    },
+    {
+        "id": "50113c9f-3ccb-4684-95e8-667d543b390e",
+        "name": "JPCT",
+        "totalPoints": 340,
+        "totalWins": 3,
+        "totalLoses": 2
+    },
+    {
+        "id": "2b41d19b-481f-4b3f-b114-7d150a7d38fd",
+        "name": "Name1",
+        "totalPoints": 140,
+        "totalWins": 1,
+        "totalLoses": 2
+    },
+    {
+        "id": "5470b5bb-5c31-454f-b88b-48932bf0aee3",
+        "name": "Name2",
+        "totalPoints": 200,
+        "totalWins": 2,
+        "totalLoses": 0
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name3",
+        "totalPoints": 190,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name4",
+        "totalPoints": 130,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name5",
+        "totalPoints": 120,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name6",
+        "totalPoints": 110,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name7",
+        "totalPoints": 150,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name8",
+        "totalPoints": 10,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name9",
+        "totalPoints": 180,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "65299ce9-0a44-4b6d-8f11-cecb77d6f72c",
+        "name": "Name10",
+        "totalPoints": 170,
+        "totalWins": 1,
+        "totalLoses": 3
+    },
+    {
+        "id": "ccab3478-268c-422f-ad29-99aed7e7e5d8",
+        "name": "Name11",
+        "totalPoints": 100,
+        "totalWins": 1,
+        "totalLoses": 0
+    },
+    {
+        "id": "088b8e9a-7252-4953-9143-23436ce81a89",
+        "name": "Jugador 1",
+        "totalPoints": 220,
+        "totalWins": 2,
+        "totalLoses": 1
+    },
+    {
+        "id": "f5bac9c0-bf85-4720-ae8d-15d4ba4949af",
+        "name": "Jugador 2",
+        "totalPoints": 140,
+        "totalWins": 1,
+        "totalLoses": 2
+    },
+    {
+        "id": "351e0a27-47b7-45c6-974e-cf1163b12ddf",
+        "name": "Jugador 3",
+        "totalPoints": -30,
+        "totalWins": 1,
+        "totalLoses": 3
+    }
+]
